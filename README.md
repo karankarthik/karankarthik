@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on BodiGuide, AKDot, EMR<br>🌱 I’m currently learning MongoDB, React JS, AWS, Machine Learning<br>💬 Ask me about Healthcare Projects<br>📫 How to reach me karankarthik@mail.missouri.edu
+🔭 I’m currently working on BodiGuide, AKDot, EMR, MCR<br>🌱 I’m currently learning MongoDB, React JS, AWS, Machine Learning<br>💬 Ask me about Healthcare Projects<br>📫 How to reach me karankarthik@mail.missouri.edu
 
 
 ## 🌐 Socials:
